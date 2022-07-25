@@ -1,5 +1,5 @@
 export default {
-    products : [],
-    error: false,
-    errorMessage: ''
+  products: [],
+  error: false,
+  errorMessage: ''
 }
